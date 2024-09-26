@@ -1,0 +1,15 @@
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\bin\Debug\net6.0\SRT-Delayer.exe
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\bin\Debug\net6.0\SRT-Delayer.deps.json
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\bin\Debug\net6.0\SRT-Delayer.runtimeconfig.json
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\bin\Debug\net6.0\SRT-Delayer.dll
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\bin\Debug\net6.0\SRT-Delayer.pdb
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.csproj.AssemblyReference.cache
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.AssemblyInfoInputs.cache
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.AssemblyInfo.cs
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.csproj.CoreCompileInputs.cache
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.dll
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\refint\SRT-Delayer.dll
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.pdb
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\SRT-Delayer.genruntimeconfig.cache
+C:\Users\danic\Documents\Projects\SRT-Delayer\SRT-Delayer\obj\Debug\net6.0\ref\SRT-Delayer.dll
